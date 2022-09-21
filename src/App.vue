@@ -1,0 +1,3 @@
+<template>
+    App.vue
+</template>
